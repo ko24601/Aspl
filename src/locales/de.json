@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "items": {
+      "about": "Über uns",
+      "championships": "Meisterschaften",
+      "calendar": "Kalender",
+      "standings": "Wertungen",
+      "media": "Medien",
+      "rules": "Regeln",
+      "community": "Community"
+    },
+    "ticker": {
+      "season": "Staffel 4 Anmeldungen offen — PS5 & Xbox Fahrer willkommen",
+      "tiktok": "Folgt uns auf TikTok @aspl_acc_liga",
+      "discord": "Tritt dem Paddock bei — discord.gg/cnqnmX8cEm",
+      "racing": "Professionelles GT3-Konsolen-Racing — nur sauberer Wettbewerb"
+    }
+  },
+  "hero": {
+    "title1": "DIE ZUKUNFT DES",
+    "subtitle": "Die Assetto Series Pro League ist eine wettbewerbsfähige ACC-Konsolen-Liga auf PlayStation 5 & Xbox Series X|S. Aufgebaut auf sauberem GT3-Racing und langfristiger Fahrerentwicklung — professioneller Motorsport, Konsolenniveau.",
+    "cta": {
+      "discord": "DISCORD BEITRETEN",
+      "schedule": "RENNKALENDER"
+    },
+    "countdown": {
+      "title": "NÄCHSTES OFFIZIELLES RENNEN",
+      "days": "TAGE",
+      "hrs": "STD",
+      "mins": "MIN",
+      "secs": "SEK"
+    }
+  },
+  "about": {
+    "sub": "ÜBER DIE LIGA",
+    "heading": "DER PROFESSIONELLE STANDARD",
+    "card": {
+      "heading": "VISION & PADDOCK ETHOS",
+      "p1": "Die <strong>Assetto Series Pro League (ASPL)</strong> ist eine wettbewerbsfähige Assetto Corsa Competizione Konsolen-Rennliga, die sich auf professionelles Ligafahren, sauberen Wettbewerb, langfristige Fahrerentwicklung und eine starke Gemeinschaftsatmosphäre konzentriert.",
+      "p2": "Hauptsächlich auf <strong>PlayStation 5 und Xbox Series X|S</strong> basierend, operiert ASPL in der GT3-Klasse. Unser Ziel ist es, eine der wettbewerbsfähigsten und professionellsten Konsolen-ACC-Ligen zu schaffen, während wir für neuere und aufstrebende Fahrer zugänglich bleiben.",
+      "p3": "Wir wollen eine ernsthafte Motorsportidentität ähnlich wie reale GT-Rennorganisationen — sauber, erstklassig und professionell. Kein Gaming-Club. Eine <strong>Racing-Liga</strong>."
+    },
+    "pillars": {
+      "gt3": { "title": "GT3-KLASSE RACING", "desc": "ACCs wettbewerbsfähigste Klasse — Porsche, Ferrari, BMW, Aston Martin und mehr. Multi-Klassen-Formate mit echten Balance-of-Performance-Updates." },
+      "dev": { "title": "FAHRERENTWICKLUNG", "desc": "Team-Coaches, Telemetriesitzungen, Streckenführer und Mentoring. Wir entwickeln Fahrer langfristig, nicht nur für eine Saison." },
+      "clean": { "title": "SAUBERE RENNSTANDARDS", "desc": "Vorfallsbewertung über unseren Discord-Stewards-Kanal. Bordkameraaufnahmen werden geprüft, faire Strafen durchgesetzt — konsequent und transparent." },
+      "broadcast": { "title": "ÜBERTRAGENE RENNEN", "desc": "Live-Twitch-Übertragungen mit Overlays, Kommentar und Fahrerkameras. Rennhighlights auf YouTube. Folge uns auf TikTok für Clips." }
+    }
+  },
+  "series": {
+    "sub": "MEISTERSCHAFTEN",
+    "heading": "LIGASTRUKTUR",
+    "team": {
+      "badge": "SAMSTAGS",
+      "title": "ACC TEAM SERIES",
+      "desc": "Die Flaggschiff-ASPL-Meisterschaft. Teams aus 2–4 Fahrern bauen über die Saison Konstrukteurswertungen auf. Intensive Strategie, Pflichtboxenstopps und Multi-Klassen-Felder machen dies zum wichtigsten Samstagabend-Rennevent.",
+      "bullets": ["Sprint- & längere Rennformate", "Pflicht-Boxenstopp-Fenster", "Konstrukteurs-Meisterschaftswertung", "Multi-Division mit Auf- und Abstieg"]
+    },
+    "solo": {
+      "badge": "MITTWOCHS",
+      "title": "ACC SOLO SPRINT SERIES",
+      "desc": "Reiner Fahrer gegen Fahrer — keine Herstellerbeschränkungen, keine Teamdynamik. Die Solo Series ist, wo individuelles Rennhandwerk glänzt. Mittwochabende, offen für alle registrierten ASPL-Fahrer aus allen Divisionen.",
+      "bullets": ["Kurzes Qualifying + Twin-Sprint-Format", "Fahrer-exklusive Meisterschaftstabelle", "Aufstiegs- & Abstiegssystem", "PS5- und Xbox-Fahrer zusammen"]
+    },
+    "endurance": {
+      "badge": "SONDEREVENTS",
+      "title": "ENDURANCE CUP",
+      "desc": "Der ultimative ASPL-Test — längere Renndauern, Nachtfahrten, dynamisches Wetter und Fahrerwechsel. Ausdauerevents sind als Sonderrunden mit erhöhten Meisterschaftspunkten und vollständiger Übertragungsabdeckung geplant.",
+      "bullets": ["3 bis 6+ Stunden Renndauern", "Tag-zu-Nacht-Übergänge", "Fahrerwechsel & Kraftstoffstrategie", "Erhöhter Punktewert"]
+    },
+    "promo": {
+      "title": "DIVISIONS-AUFSTIEG & ABSTIEGSSYSTEM",
+      "desc": "ASPL betreibt eine mehrstufige Hierarchie (Pro, Pro-Am und Am). Spitzenreiter steigen jede Saison auf, während Startplätze am Ende absteigen, was intensiv wettbewerbsfähige Lobby-Matches garantiert.",
+      "cta": "💬 DISCORD BEITRETEN UND ANMELDEN"
+    }
+  },
+  "calendar": {
+    "sub": "DER KALENDER",
+    "heading": "RENNKALENDER",
+    "solo": { "label": "SOLO SERIES (ZUM VERGRÖSSERN KLICKEN)", "schedule": "MITTWOCHS · 20:30" },
+    "team": { "label": "TEAM SERIES (ZUM VERGRÖSSERN KLICKEN)", "schedule": "SAMSTAGS · 19:00" }
+  },
+  "standings": {
+    "sub": "MEISTERSCHAFTSTABELLEN",
+    "heading": "WERTUNGEN & ERGEBNISSE",
+    "tabs": { "drivers": "FAHRER", "constructors": "KONSTRUKTEURE", "statistics": "STATISTIKEN" },
+    "drivers": { "pos": "POS", "driver": "FAHRER", "car": "FAHRZEUGWAHL", "team": "TEAM", "poles": "POLES", "podiums": "PODIEN", "wins": "SIEGE", "points": "PUNKTE" },
+    "constructors": { "pos": "POS", "team": "TEAMNAME", "mfr": "HERSTELLER", "wins": "ERFASSTE SIEGE", "pts": "KONSTRUKTEURSPUNKTE" },
+    "stats": {
+      "noData": "NOCH KEINE STATISTIKEN",
+      "noDataSub": "Statistiken erscheinen, sobald Fahrer und Ergebnisse hinzugefügt wurden.",
+      "leader": "MEISTERSCHAFTSFÜHRER",
+      "mostPoles": "MEISTE POLE-POSITIONS",
+      "mostWins": "MEISTE SIEGE",
+      "mostPodiums": "MEISTE PODIEN",
+      "topTeam": "FÜHRENDER KONSTRUKTEUR",
+      "totalDrivers": "FAHRER GESAMT",
+      "totalTeams": "TEAMS GESAMT",
+      "totalPoles": "POLES GESAMT",
+      "totalWins": "SIEGE GESAMT",
+      "totalPodiums": "PODIEN GESAMT"
+    }
+  },
+  "media": {
+    "sub": "COMMUNITY-ÜBERTRAGUNGEN",
+    "heading": "STREAMING & MEDIA HUB",
+    "stream": {
+      "title": "STREAM-ÜBERTRAGUNG",
+      "click": "Klicken, um den offiziellen ASPL-Stream einzuschalten",
+      "upcoming": "Nächste Live-Übertragung: ACC Team Series (Spa-Francorchamps)",
+      "hosts": "Moderator: ASPL TV | Kommentatoren: Jake Smith, Brandon Vance"
+    },
+    "follow": { "heading": "FOLGEN & SCHAUEN" },
+    "tiktok": { "desc": "Rennclips, Überholmanöver & Highlights" },
+    "youtube": { "desc": "Vollständige Rennwiederholungen & Highlight-Reels" },
+    "twitch": { "desc": "Live-Rennübertragungen mit Overlays" },
+    "discord": { "desc": "Tritt dem Paddock bei, finde ein Team" }
+  },
+  "community": {
+    "sub": "PADDOCK-NEUIGKEITEN",
+    "heading": "COMMUNITY CORNER",
+    "readMore": "BULLETIN LESEN"
+  },
+  "footer": {
+    "brand": { "desc": "Die Assetto Series Pro League ist eine wettbewerbsfähige ACC-Konsolen-Liga, aufgebaut auf sauberem Racing, langfristiger Fahrerentwicklung und einer seriösen Motorsportidentität — auf PlayStation 5 und Xbox Series X|S." },
+    "nav": {
+      "heading": "NAVIGATION",
+      "links": {
+        "about": "Über ASPL",
+        "series": "Ligastruktur",
+        "calendar": "Rennkalender",
+        "standings": "Wertungen & Ergebnisse",
+        "media": "Medien-Hub",
+        "community": "Community"
+      }
+    },
+    "socials": {
+      "heading": "SOCIALS & MEDIEN",
+      "tiktokTitle": "AUF TIKTOK FOLGEN",
+      "discord": "Discord-Server",
+      "tiktok": "TikTok @aspl_acc_liga",
+      "twitch": "Live Twitch-Übertragungen",
+      "youtube": "YouTube-Highlights"
+    },
+    "join": {
+      "heading": "INS PADDOCK EINSTEIGEN",
+      "desc": "Ob erfahrener Sim-Racer oder Einsteiger — ASPL hat einen Platz für dich. Tritt unserem Discord bei, um eingeführt zu werden, ein Team zu finden und auf dem besten ACC-Konsolen-Grid zu fahren.",
+      "discord": "💬 DISCORD BEITRETEN"
+    },
+    "sponsors": "Offizielle Sponsoren",
+    "admin": "Admin-Panel",
+    "copyright": "© {{year}} Assetto Series Pro League. Alle Rechte vorbehalten. Nicht verbunden mit Kunos Simulazioni oder 505 Games."
+  }
+}
